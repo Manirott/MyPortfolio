@@ -135,7 +135,7 @@
             transform: translateY(-50%);
             width: 50%;
             height: 80%;
-            background: url('/img/1.jpg') center center no-repeat;
+            background: url('/1.jpg') center center no-repeat;
             background-size: contain;
             animation: float 6s ease-in-out infinite;
         }
